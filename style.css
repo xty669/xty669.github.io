@@ -26,6 +26,8 @@ header a:hover{
 header li{
     display: inline;
     margin-right: 3.5vw;
+    font-size: 20px;
+
 }
 header ul{
     position:absolute;
