@@ -53,8 +53,10 @@ header img{
     background-color: aqua;
     width: 100%;
     height: 350px;
-    
-    
+}
+
+.jd:hover{color: blue;
+
 }
 /*text.html h1{
     position: absolute;
